@@ -1,5 +1,0 @@
-DevOps
-Isreal
-Python
- 
-
